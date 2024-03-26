@@ -1,0 +1,4 @@
+Name is: liza - Phone number is: 1234 - Password is: liza123 - Account is: [Card IBAN: 24 - Balance: 0 - Card: Card number: 91 - Valid Through: 11/11/2043 - CVV: 345 - Issuer: Visa]
+Name is: dato - Phone number is: 2345 - Password is: dato123 - Account is: [Card IBAN: 18 - Balance: 0 - Card: Card number: 44 - Valid Through: 11/11/2043 - CVV: 345 - Issuer: Visa]
+Name is: amiko - Phone number is: 12345 - Password is: amiko - Account is: [Card IBAN: 40 - Balance: 0 - Card: Card number: 3 - Valid Through: 11/11/2043 - CVV: 345 - Issuer: Visa]
+Name is: gogsadze - Phone number is: 12 - Password is: gogsadze - Account is: [Card IBAN: 40 - Balance: 0 - Card: Card number: 17 - Valid Through: 11/11/2043 - CVV: 345 - Issuer: Visa]

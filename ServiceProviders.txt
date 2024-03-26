@@ -1,0 +1,2 @@
+Name is: giorgi - Phone number is: 12345 - Password is: giorgi - Account is: [Card IBAN: 130 - Balance: 0 - Card: Card number: 117 - Valid Through: 10/10/2056 - CVV: 123 - Issuer: Mastercard]
+Name is: archili - Phone number is: 1111 - Password is: archili - Account is: [Card IBAN: 104 - Balance: 0 - Card: Card number: 134 - Valid Through: 10/10/2056 - CVV: 123 - Issuer: Mastercard]
